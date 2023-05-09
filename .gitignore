@@ -1,0 +1,10 @@
+assets/
+node_modules/
+src/
+.vscode
+.DS_Store
+
+gulpfile.babel.js
+package-lock.json
+package.json
+screenshot.jpg
